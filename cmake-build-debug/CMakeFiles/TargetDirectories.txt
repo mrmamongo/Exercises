@@ -1,0 +1,3 @@
+/home/lamp/CLionProjects/Exc/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lamp/CLionProjects/Exc/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lamp/CLionProjects/Exc/cmake-build-debug/CMakeFiles/exercises.dir
